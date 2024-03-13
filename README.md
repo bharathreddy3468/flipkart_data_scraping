@@ -1,4 +1,4 @@
-# flipkart_data_scraping
+# Endtoend Flipkart Mobile Price Prediction
 
 In this project I scraped one of the popular e-commerce websites Flipkart using beautifulsoup
 

@@ -14,4 +14,4 @@ Then I performed EDA on the data using different visualization techniques.
 
 Finally dumped the data into flip_data_cleaned.csv file.
 
-I'll create a ML model using the data and will upload the results.
+I created an ML model using the data and tuned the Hyper parameters using Cross validation and uploaded the final results.

@@ -1,9 +1,17 @@
-# flipkart_data_scraping
+# Endtoend Flipkart Mobile Price Prediction
 
-In this project we tried to scrape one of the popular e-commerce websites Flipkart using beautifulsoup
+In this project I scraped one of the popular e-commerce websites Flipkart using beautifulsoup
 
-we tried to get the details of mobile phones of some selected brands.
+I tried to get the details of mobile phones of some selected brands.
 
-you can find the code in flipkart_data.py anf the scraped data in flip_data.csv file
+you can find the code in flipkart_data.py and the scraped data in flip_data.csv file
 
 You may not be able to get the exact same dataset even if you run this code due to new mobiles being added and recomendation system of Flipkart.
+
+Later I cleaned the dataset and made it useful for analysis.
+
+Then I performed EDA on the data using different visualization techniques.
+
+Finally dumped the data into flip_data_cleaned.csv file.
+
+I'll create a ML model using the data and will upload the results.
